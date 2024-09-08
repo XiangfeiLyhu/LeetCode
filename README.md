@@ -65,6 +65,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 | [0045-jump-game-ii](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/XiangfeiLyhu/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
